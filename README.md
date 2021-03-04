@@ -13,3 +13,7 @@ Struktur data :
 > - {kemendagri}/propinsi.json
 > - {kemendagri}/kabupaten/{id provinsi}.json
 > - {kemendagri}/kecamatan/{id kabupaten}.json
+
+
+# CARA MAKENYA DI NUXTR
+https://stackoverflow.com/questions/55124672/load-data-from-json-file-in-assets-with-nuxt-js
